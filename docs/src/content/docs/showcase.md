@@ -24,6 +24,7 @@ Starlight is already being used in production. These are some of the sites aroun
 - [Athena OS](https://www.athenaos.org)
 - [simple-fm](https://simple.arciniega.one)
 - [CommandKit](https://commandkit.underctrl.io)
+- [WP Engine Atlas Platform](https://developers.wpengine.com/docs/)
 
 See all the [public project repos using Starlight on GitHub](https://github.com/withastro/starlight/network/dependents).
 
